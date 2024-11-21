@@ -1,10 +1,8 @@
-
 int_list = []
+a = int(input("Please number of items: "))
 
-userInput = input("Please enter three digits into the list: ");
-int_list = userInput
-print(int_list);
+for i in range(a):
+    item = int(input("Enter items: ".format(i+1)))
+int_list.append(item)
 
-for i in int_list:
-    sum = i[0] + i[1] + i[2];
-    print(sum);
+print("List:",int_list)
