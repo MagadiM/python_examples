@@ -1,8 +1,11 @@
 int_list = []
-a = int(input("Please number of items: "))
+n = int(input("Please number of items: "))
 
-for i in range(a):
-    item = int(input("Enter items: ".format(i+1)))
-int_list.append(item)
+for i in range(0, n):
+    item = int(input())
+    
+    int_list.append(item)
 
-print("List:",int_list)
+print(int_list)
+print(sum(int_list))
+
