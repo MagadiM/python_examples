@@ -11,4 +11,4 @@ This file tests the different python methods that can be used with lists. Method
 The calculate_discount file contains a code that prompts the user to provide the price of an item and its discount rate. The function created also checks whether the disocunt is equal to 20% or higher. For discounts below 20% the discount is disregraded and it returns the original price while thos which are higher the discount is applied. In this code I used the try.. except error to ensure all conditions were met. 
 
 # Weekly Challenges
-These challenges are placed to challenge me to understand the concepts better and do more practice. There are various files done within the sub folder necessary to the learning process.
+These challenges are placed to challenge me to understand the concepts better and do more practice. There are various files done within the sub folder necessary to the learning process. The challenges include works on python examples that push one to think in an out of the box kind of way to help them enhance their skills within the language. 
