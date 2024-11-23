@@ -1,0 +1,5 @@
+file1 = open("trialfile.txt", 'w')
+file1.write("This is a write mode example,")
+file1.write("Hello python developer")
+print(file1)
+file1.close()

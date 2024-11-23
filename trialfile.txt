@@ -1,0 +1,1 @@
+This is a write mode example,Hello python developer
